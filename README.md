@@ -4,17 +4,7 @@ This project builds up on a flutter application from Mitch Koko YT channel on us
 interactive apps. 
 
 Check out the tutorial here : https://www.youtube.com/watch?v=zohXXZBUVYI
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Learnt more about the using Firebase database , User Login and authentification
+and adding several functionalities that brings the app to life  
+feel free to clone the repo , watch the YT tutorial and add more interesting stuff 
