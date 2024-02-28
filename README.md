@@ -1,5 +1,9 @@
 # insta_x
 
+This project builds up on a flutter application from Mitch Koko YT channel on using flutter and firebase to build 
+interactive apps. 
+
+Check out the tutorial here : https://www.youtube.com/watch?v=zohXXZBUVYI
 A new Flutter project.
 
 ## Getting Started
